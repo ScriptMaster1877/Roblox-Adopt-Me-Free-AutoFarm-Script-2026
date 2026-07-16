@@ -44,7 +44,7 @@ no complicated setup.**
 We use external Lua execution methods that minimize detection risk. Always use on an alt account first. No guarantees against bans — use responsibly.
 
 **Which executors are supported?**  
-Tested and working on Solara, Fluxus, Delta, Arceus X (mobile), and most major executors.
+Tested and working on Wndows 10 & 11, and most major executors.
 
 **Does it work on Mobile?**  
 Yes, many features are mobile-compatible.
