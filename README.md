@@ -47,7 +47,7 @@ We use external Lua execution methods that minimize detection risk. Always use o
 Tested and working on Wndows 10 & 11, and most major executors.
 
 **Does it work on Mobile?**  
-Yes, many features are mobile-compatible.
+No, we are working on a mobile version.
 
 **How often is it updated?**  
 We aim to update within 24-48 hours of major game patches.
